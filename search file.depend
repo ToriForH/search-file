@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1691616156 source:c:\cbproject\search file\main.c
+	<stdio.h>
+	<stdlib.h>
+	<dirent.h>
+	<string.h>
+
